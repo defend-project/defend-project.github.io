@@ -1,13 +1,13 @@
-baseURL = "https://dnaya-org.github.io/"
+baseURL = "https://defend-project.github.io/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
-title = "Dnaya"
+title = "DEFEND"
 theme = "learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://github.com/dnaya-org/dnaya-org.github.io/edit/main/content/"
+  editURL = "https://github.com/defend-project/defend-project.github.io/edit/main/content/"
   description = "Documentation of Dnaya"
   author = "F. Verri and M. Machado"
   showVisitedLinks = true
